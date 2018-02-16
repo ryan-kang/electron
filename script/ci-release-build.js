@@ -12,7 +12,7 @@ const circleCIJobs = [
 ]
 
 const jenkinsJobs = [
-  'electron-release',
+  'electron-release'
 ]
 
 async function makeRequest (requestOptions, parseResponse) {
